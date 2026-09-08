@@ -4,8 +4,14 @@ What is being changed?
 Why make this change/addition?
 
 Fixes # (issue)
-
-(If the websites UI is changed, Before and after would be great. Copypaste the image into the PR)
+=====================
+(If the websites UI has changed fill out relevant fields below, otherwise delete this section)
+## UI changes
+#Before:
+(Copypaste image here)
+#After:
+(Copypaste image here)
+==================================================================================================
 
 ## Checklist before merging
 - [ ] Does the code compile into a binary?
