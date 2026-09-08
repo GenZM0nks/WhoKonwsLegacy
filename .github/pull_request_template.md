@@ -3,15 +3,20 @@ What is being changed?
 
 Why make this change/addition?
 
-Fixes # (issue)
-=====================
-(If the websites UI has changed fill out relevant fields below, otherwise delete this section)
+#### Fixes # (issue)
+
 ## UI changes
-#Before:
+(If the websites UI has changed fill out relevant fields below, otherwise delete this section)
+
+Before:
+
 (Copypaste image here)
-#After:
+
+After:
+
 (Copypaste image here)
-==================================================================================================
+
+---
 
 ## Checklist before merging
 - [ ] Does the code compile into a binary?
